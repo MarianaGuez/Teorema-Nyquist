@@ -3,8 +3,8 @@ Demostrar el teorema de Nyquist por medio de la reconstrucción de la señal, us
 #
 Se entrega: 
 #
-  _El Codigo Comentado 
+  _El Codigo Comentado_ 
 #
-  _El Trabajo Escrito
+  _El Trabajo Escrito_
 #
-  _Las Imagenes, obtenidas del codigo de Matlab
+  _Las Imagenes, obtenidas del codigo de Matlab_
